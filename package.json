@@ -1,0 +1,17 @@
+{
+  "name": "dhushyanth-s.github.io",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "repository": "https://github.com/dhushyanth-s/dhushyanth-s.github.io.git",
+  "author": "Dhushyanth <dhushyanth5602@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "compile": "parcel index.html"
+  },
+  "devDependencies": {
+    "less": "^4.1.1",
+    "stylus": "^0.54.8",
+    "typescript": "^4.2.3"
+  }
+}
