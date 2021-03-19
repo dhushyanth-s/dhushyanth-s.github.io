@@ -1,0 +1,29 @@
+.hover {
+  border: 2px solid #000;
+}
+* {
+  padding: 0;
+  border: none;
+  margin: 0;
+  box-sizing: border-box;
+  cursor: none;
+}
+.button {
+  position: absolute;
+  left: 50vh;
+  top: 50vh;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.cursor {
+  border-radius: 50%;
+  border: 2px solid;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  pointer-events: none;
+}
+
+
+/*# sourceMappingURL=/style.d33ae524.css.map */
